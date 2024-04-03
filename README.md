@@ -1,6 +1,6 @@
 # capstone_project_html5
 
-# My Resume with HTML only 
+## My Resume with HTML only 
 ## Resume using only HTML 5 with the basic tags 
 ## heading, anchor, paragraph, list elements, img
 
